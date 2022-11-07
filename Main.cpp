@@ -133,9 +133,15 @@ void DFS()
 	cout << "마지막 플레이어 위치 : " << "(" << Player.X << ", " << Player.Y << ")" << endl;
 }
 
-int main()
-{
-	DFS();
 
-	return 0;
-}
+
+
+
+
+
+//int main()
+//{
+//	DFS();
+//
+//	return 0;
+//}
